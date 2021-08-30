@@ -1,5 +1,5 @@
 ## Hello 👋, I'm  Eliseo!
-###▶ Fullstack web developer & Photograper 
+▶ ### Fullstack web developer & Photograper 
 ![Soy fullstack web developer](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 
 ▶Do intensive henry bootcamp🚀🚀 with training in technology HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, and SQL databases.
