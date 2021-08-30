@@ -17,6 +17,7 @@ enter the SoyHenry Bootcamp 100% 🚀🚀
              
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseoRom&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliseoRom)  
+[![Visits Badge](https://badges.pufler.dev/visits/EliseoRom/EliseoRom)](https://badges.pufler.dev)
 
 <!---
 EliseoRom/EliseoRom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
