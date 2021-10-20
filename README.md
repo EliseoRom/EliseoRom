@@ -1,12 +1,16 @@
 
 <h1>Hi! I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome+here+are+my+projectss">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome!+here+are+my+projects">
 
  ### Full Stack Web Developer💻  & Photograper 📸
 
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="450" height="140" />
+<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
 
-▶Do intensive henry bootcamp🚀🚀 
+
+Being a photographer I was passionate about learning new things, generating solutions and working as a team developing projects, the best idea I had was to unite my two passions and focus as a Frontend
+Developer.
+
+I found programming and opened a new world to meet my goals and objectives and enter the intensive Bootcamp of soyHenry 100% 🚀🚀
 
 ### Technologies and tools that I use
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -26,12 +30,6 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://icon-sets.iconify.design/ion/logo-vercel/"/></a>
 
-▶Being a photographer I am passionate about learning new things, generating solutions and working as a team
-developing projects, the best idea I had was to unite my two passions and focus as a Frontend
-Developer.
-
-▶I came across programming and opened a new world to meet my goals and objectives and
-enter the SoyHenry Bootcamp 100% 🚀�
 
 
 
