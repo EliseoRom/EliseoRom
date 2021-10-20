@@ -1,6 +1,6 @@
 ## Hello 👋, I'm  Eliseo!
  ### Full Stack Web Developer💻  & Photograper 📸
-![Soy fullstack web developer](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
+![Soy fullstack web developer]
 
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="250" height="100" />
 
