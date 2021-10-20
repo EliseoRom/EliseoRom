@@ -27,8 +27,9 @@ I found programming and opened a new world to meet my goals and objectives and e
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-
 <a href="https://trello.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/trello.png"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
 
 
