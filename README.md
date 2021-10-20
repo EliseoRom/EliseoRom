@@ -2,6 +2,8 @@
  ### Full Stack Web Developer💻  & Photograper 📸
 ![Soy fullstack web developer](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
 
+<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="185" height="185" />
+
 ▶Do intensive henry bootcamp🚀🚀 with training in technology HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, MaterialUI, MongoDB, and SQL databases.
 
 ▶Being a photographer I am passionate about learning new things, generating solutions and working as a team
