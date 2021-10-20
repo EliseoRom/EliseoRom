@@ -17,7 +17,7 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 
 with training in technology HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express, MaterialUI, MongoDB, and SQL databases.
 
