@@ -1,10 +1,10 @@
 
 <h1>Hi! I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome+here+you+can+know+about+my+projects">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome+here+are+my+projectss">
 
  ### Full Stack Web Developer💻  & Photograper 📸
-![Soy fullstack web developer]
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
+
+<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="450" height="140" />
 
 ▶Do intensive henry bootcamp🚀🚀 
 
