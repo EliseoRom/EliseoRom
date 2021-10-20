@@ -21,7 +21,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vercel.png"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://icon-sets.iconify.design/ion/logo-vercel/"/></a>
 
 ▶Being a photographer I am passionate about learning new things, generating solutions and working as a team
 developing projects, the best idea I had was to unite my two passions and focus as a Frontend
