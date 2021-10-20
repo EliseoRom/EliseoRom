@@ -17,11 +17,10 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://icon-sets.iconify.design/ion/logo-vercel/"/></a>
+
 
 ▶Being a photographer I am passionate about learning new things, generating solutions and working as a team
 developing projects, the best idea I had was to unite my two passions and focus as a Frontend
@@ -30,19 +29,20 @@ Developer.
 ▶I came across programming and opened a new world to meet my goals and objectives and
 enter the SoyHenry Bootcamp 100% 🚀�
 
-▶If you are interested in my profile, you can contact me at
 
-▶📫 Email: romeroeliseojoaquin@gmail.com ◀
 
-▶Linkedin: https://www.linkedin.com/in/eliseo-joaquin-romero-developer/ ◀
 
-▶Porfolio: https://porfolioeliseo.vercel.app/ ◀
 
 ## 📫 If you are interested in my profile, you can contact me at
 <a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:romeroeliseojoaquin@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a> 
 &nbsp; &nbsp;
+
+▶📫 Email: romeroeliseojoaquin@gmail.com ◀
+
+▶PorfolioDeveloper: https://porfolioeliseo.vercel.app/ ◀
+▶PorfolioPhotography: https://eliseojromerophotography.tumblr.com/ ◀
              
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseoRom&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliseoRom)  
