@@ -1,6 +1,6 @@
 
 <h1>Hi! I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Welcome here you can know about my projects">
 
  ### Full Stack Web Developer💻  & Photograper 📸
 ![Soy fullstack web developer]
