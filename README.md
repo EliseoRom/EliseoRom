@@ -19,6 +19,11 @@ enter the SoyHenry Bootcamp 100% 🚀�
 
 ▶Porfolio: https://porfolioeliseo.vercel.app/ ◀
 
+## 📫 If you are interested in my profile, you can contact me at
+<a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:romeroeliseojoaquin@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a> 
+&nbsp; &nbsp;
              
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseoRom&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliseoRom)  
