@@ -38,7 +38,7 @@ MERN, exprees, React, Node, PERN, CRUD
 
 <h3 align="left">## 📫 If you are interested in my profile, you can contact me at</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="EliseoJoaquinRomero" height="30" width="auto" />🤝 Linkedin profile</a>
+<a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="EliseoJoaquinRomero" height="30" width="auto" />🤝 Linkedin profile</a>
 </p>
 <p align="left">
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" />📧 romeroeliseojoaquin@gmail.com</a>
