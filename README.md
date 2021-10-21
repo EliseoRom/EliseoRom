@@ -43,7 +43,7 @@ MERN, exprees, React, Node, PERN, CRUD
 <p align="left">
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" /> romeroeliseojoaquin@gmail.com</a>
 </p>
-
+▶ Portfolio ◀
 <p align="left">
 <a href="https://porfolioeliseo.vercel.app/" target="_blank"><img align="center" src="https://www.binarymarvels.com/pics/toggleBtn/portfolio.png" alt="Portfolio" height="30" width="auto" /> https://porfolioeliseo.vercel.app/</a>
 </p>
@@ -51,9 +51,6 @@ MERN, exprees, React, Node, PERN, CRUD
 <p align="left">
 <a href="https://eliseojromerophotography.tumblr.com/" target="_blank"><img align="center" src="https://i.pinimg.com/736x/26/54/3d/26543dca3f39b9dbe76534f125c33836.jpg" alt="Photography" height="30" width="auto" /> https://eliseojromerophotography.tumblr.com/ </a>
 </p>
-▶Porfolio Dev: https://porfolioeliseo.vercel.app/ ◀
-
-▶Porfolio Photography: https://eliseojromerophotography.tumblr.com/ ◀
 
 
 
