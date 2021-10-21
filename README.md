@@ -36,7 +36,7 @@ Other technology
 MERN, exprees, React, Node, PERN, CRUD
 
 
-<h3 align="left">## 📫 If you are interested in my profile, you can contact me at</h3>
+## 📫 If you are interested in my profile, you can contact me at
 <p align="left">
 <a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="EliseoJoaquinRomero" height="30" width="auto" /> Linkedin profile</a>
 </p>
@@ -44,19 +44,18 @@ MERN, exprees, React, Node, PERN, CRUD
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" />📧 romeroeliseojoaquin@gmail.com</a>
 </p>
 
+▶Porfolio: https://porfolioeliseo.vercel.app/ ◀
+
+▶Porfolio Photography: https://eliseojromerophotography.tumblr.com/ ◀
 
 
-## 📫 If you are interested in my profile, you can contact me at
+
 <a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:romeroeliseojoaquin@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a> 
 &nbsp; &nbsp;
 
-▶📫 Email: romeroeliseojoaquin@gmail.com ◀
 
-▶Porfolio: https://porfolioeliseo.vercel.app/ ◀
-
-▶Porfolio Photography: https://eliseojromerophotography.tumblr.com/ ◀
              
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseoRom&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliseoRom)  
