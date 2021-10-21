@@ -44,6 +44,10 @@ MERN, exprees, React, Node, PERN, CRUD
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" /> romeroeliseojoaquin@gmail.com</a>
 </p>
 
+<p align="left">
+<a href="https://porfolioeliseo.vercel.app/" target="_blank"><img align="center" src="https://img.favpng.com/22/21/5/computer-icons-career-portfolio-icon-design-png-favpng-mfnqHB20A14CuA1e4rJYunVe5.jpg" alt="Portfolio" height="30" width="auto" /> https://porfolioeliseo.vercel.app/</a>
+</p>
+
 ▶Porfolio Dev: https://porfolioeliseo.vercel.app/ ◀
 
 ▶Porfolio Photography: https://eliseojromerophotography.tumblr.com/ ◀
