@@ -51,15 +51,11 @@ MERN, exprees, React, Node, PERN, CRUD
 <a href="https://porfolioeliseo.vercel.app/" target="_blank"><img align="center" src="https://www.binarymarvels.com/pics/toggleBtn/portfolio.png" alt="Portfolio" height="30" width="auto" /> https://porfolioeliseo.vercel.app/</a>
 </p>
 
-<p align="left">
-<a href="https://eliseojromerophotography.tumblr.com/" target="_blank"><img align="center" src="https://i.pinimg.com/736x/26/54/3d/26543dca3f39b9dbe76534f125c33836.jpg" alt="Photography" height="30" width="auto" /> https://eliseojromerophotography.tumblr.com/ </a>
-</p>
 
 
 
-             
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseoRom&show_icons=true&count_private=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EliseoRom)  
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/EliseoRom/EliseoRom)](https://badges.pufler.dev)
 
 <!---
