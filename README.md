@@ -47,9 +47,9 @@ MERN, exprees, React, Node, PERN, CRUD
 
 🔽 Portfolio 🔽
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://porfolioeliseo.vercel.app/" target="_blank"><img align="center" src="https://www.binarymarvels.com/pics/toggleBtn/portfolio.png" alt="Portfolio" height="30" width="auto" /> https://porfolioeliseo.vercel.app/</a>
-</p>
+</p> -->
 
 
 
