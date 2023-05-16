@@ -13,7 +13,7 @@ Developer.
 I found programming and opened a new world to meet my goals and objectives and enter the intensive Bootcamp of soyHenry 100% 🚀🚀
 
 ### Technologies and tools that I use
-<a href="https://reactjs.org/" target="_blank"><img src="[https://img.icons8.com/color/48/000000/react-native.png](https://dc722jrlp2zu8.cloudfront.net/media/uploads/2020/08/07/golang.png)"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png](https://dc722jrlp2zu8.cloudfront.net/media/uploads/2020/08/07/golang.png"/></a>
 <a href="https://go.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/goland.png"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
