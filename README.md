@@ -2,7 +2,7 @@
 <h1>Hi! I'm Eliseo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"></h1>
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Welcome!+here+are+my+projects">
 
- ### Full Stack Web Developer💻  & Photograper 📸
+ ### Full Stack Web Developer💻
 
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
 
