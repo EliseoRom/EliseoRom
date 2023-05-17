@@ -46,8 +46,6 @@ MERN, exprees, React, Node, PERN, CRUD
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" /> romeroeliseojoaquin@gmail.com</a>
 </p>
 
-🔽 Portfolio 🔽
-
 <!-- <p align="left">
 <a href="https://porfolioeliseo.vercel.app/" target="_blank"><img align="center" src="https://www.binarymarvels.com/pics/toggleBtn/portfolio.png" alt="Portfolio" height="30" width="auto" /> https://porfolioeliseo.vercel.app/</a>
 </p> -->
