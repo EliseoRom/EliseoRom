@@ -53,7 +53,7 @@ const myStack = {
     },
     {
       Others: {
-        tools: ["Slack", "Postman", "Notion", "CaptureOne", "Adobe LR", "Final Cut Pro", "Figma"],
+        tools: ["Git Flow", "Slack", "Postman", "Notion", "CaptureOne", "Adobe LR", "Final Cut Pro", "Figma"],
       },
     },
   ],
