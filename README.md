@@ -36,7 +36,7 @@ Other technology
 MERN, exprees, React, Node, PERN, CRUD
 ```javascript
 const myStack = {
-  code: ["Goland", Javascript", "HTML", "CSS", "React"],
+  code: ["Goland", "Javascript", "HTML", "CSS", "React"],
   technologies: [
     {
       frontEnd: {
@@ -53,7 +53,7 @@ const myStack = {
     },
     {
       Others: {
-        prototyping: ["Figma"],
+        tools: ["Slack", "Postman", "Notion", "CaptureOne", "Adobe LR", "Final Cut Pro", "Figma"],
       },
     },
   ],
