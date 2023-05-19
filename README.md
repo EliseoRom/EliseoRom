@@ -57,8 +57,8 @@ const myStack = {
       },
     },
   ],
-  currentStatus: ["✨Looking for a Job✨"],
-  locationPreferences: ["✨Fully Remote✨"],
+  currentStatus: ["Looking for a Job"],
+  locationPreferences: ["Fully Remote"],
 };
 ```
 
