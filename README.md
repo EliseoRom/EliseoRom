@@ -34,6 +34,34 @@ I found programming and opened a new world to meet my goals and objectives and e
 Other technology
 
 MERN, exprees, React, Node, PERN, CRUD
+```javascript
+const myStack = {
+  code: ["Goland", Javascript", "HTML", "CSS", "React"],
+  technologies: [
+    {
+      frontEnd: {
+        javascript: ["React", "Redux", "Redux/Toolkit", "Persist","React Native", "GraphQL", "CubeJs"],
+        css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
+      },
+    },
+    {
+      backEnd: {
+        javascript: ["NodeJS", "Express", "Mongoose","Apollo Server"],
+        goland: [""]
+      },
+      databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    },
+    {
+      Others: {
+        prototyping: ["Figma"],
+        library: ["Material UI"],
+      },
+    },
+  ],
+  currentStatus: ["✨Looking for a Job✨"],
+  locationPreferences: ["✨Fully Remote✨"],
+};
+```
 
 
 ## 📫 If you are interested in my profile, you can contact me at
