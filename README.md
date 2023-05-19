@@ -40,21 +40,20 @@ const myStack = {
   technologies: [
     {
       frontEnd: {
-        javascript: ["React", "Redux", "Redux/Toolkit", "Persist","React Native", "GraphQL", "CubeJs"],
-        css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
+        javascript: ["React", "Redux"],
+        css and library: ["Styled Components", "Ant Design", "Material UI", "CSS Modules", "SASS", "Bootstrap"],
       },
     },
     {
       backEnd: {
-        javascript: ["NodeJS", "Express", "Mongoose","Apollo Server"],
-        goland: [""]
+        javascript: ["NodeJS", "Express", "Mongoose"],
+        goland: ["Gin", "GORM", "Gorilla Mux"]
       },
       databases: ["PostgreSQL", "MongoDB", "MySQL"],
     },
     {
       Others: {
         prototyping: ["Figma"],
-        library: ["Material UI"],
       },
     },
   ],
