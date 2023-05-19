@@ -4,7 +4,7 @@
 
  ### Full Stack Web Developer💻
 
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
+<!-- <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" /> -->
 
 
 Being a photographer I was passionate about learning new things, generating solutions and working as a team developing projects, the best idea I had was to unite my two passions and focus as a Frontend
