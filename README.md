@@ -31,9 +31,6 @@ I found programming and opened a new world to meet my goals and objectives and e
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
-Other technology
-
-MERN, exprees, React, Node, PERN, CRUD
 ```javascript
 const myStack = {
   code: ["Goland", "Javascript", "HTML", "CSS", "React"],
