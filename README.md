@@ -82,7 +82,7 @@ const myStack = {
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/EliseoRom/EliseoRom)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/EliseoRom/EliseoRom)](https://badges.pufler.de
 
 <!---
 EliseoRom/EliseoRom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
