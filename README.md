@@ -56,14 +56,11 @@ const myStack = {
   locationPreferences: ["Fully Remote"],
 };
 ```
-
-
 ## 📫 If you are interested in my profile, you can contact me at
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eliseo-joaquin-romero-developer/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="EliseoJoaquinRomero" height="30" width="auto" /> Linkedin profile</a>
 </p>
-
 <p align="left">
 <a href="mailto:romeroeliseojoaquin@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="romeroeliseojoaquin@gmail.com" height="30" width="auto" /> romeroeliseojoaquin@gmail.com</a>
 </p>
